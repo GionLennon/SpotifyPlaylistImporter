@@ -10,7 +10,7 @@ Import all songs of a playlist ordered, into your favorite songs in Spotify. The
   - Redirect URIs (I set mine to http://localhost:8888/callback) (your_deployed_URI)
     
   All three of those can be obtained by creating an app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
-### Spotify Playlist
+### Spotify Playlist ID
   Playlist ID (can be obtained by sharing the playlist and copying the ID in the link) (`your_playlist_id`, in Step 2 of the code)
 ### Python Script [Download](./ImportPlaylist.py)
   ```python
