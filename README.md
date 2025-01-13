@@ -3,7 +3,7 @@ Import all songs of a playlist ordered, into your favorite songs in Spotify. The
 
 ## Dependencies
 ### Python
-  spotipy pyhton package – `pip install spotipy`
+  spotipy python package – `pip install spotipy`
 ### Spotify Developer App
   - Client ID (76xxxxxxxxxxxx…) (your_client_id)
   - Client Secret (76xxxxxxxxxxxx…) (your_client_secret)
