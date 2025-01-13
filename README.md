@@ -7,7 +7,7 @@ Import all songs of a playlist ordered, into your favorite songs in Spotify. The
 ### Spotify Developer App
   - Client ID (76xxxxxxxxxxxx…) (your_client_id)
   - Client Secret (76xxxxxxxxxxxx…) (your_client_secret)
-  - Redirect URIs (set mine to http://localhost:8888/callback) (your_deployed_URI)
+  - Redirect URIs (I set mine to http://localhost:8888/callback) (your_deployed_URI)
     
   All three of those can be obtained by creating an app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 ### Spotify Playlist
