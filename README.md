@@ -1,5 +1,5 @@
 # SpotifyPlaylistImporter
-Import all Songs of a Playlist into your Favorite Songs in Spotify.
+Import all songs of a playlist ordered, into your favorite songs in Spotify. The script starts with the latest added song first. Because Spotify randomizes songs when multiple songs get added to the favourites simultaniously the script waits 1s after every song.
 
 ## Dependencies
 ### Python
